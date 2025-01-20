@@ -1,0 +1,14 @@
+D:\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.exe
+D:\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.deps.json
+D:\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.runtimeconfig.json
+D:\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.dll
+D:\MyDotNetApp\bin\Debug\net8.0\MyDotNetApp.pdb
+D:\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfoInputs.cache
+D:\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.AssemblyInfo.cs
+D:\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+D:\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.dll
+D:\MyDotNetApp\obj\Debug\net8.0\refint\MyDotNetApp.dll
+D:\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.pdb
+D:\MyDotNetApp\obj\Debug\net8.0\MyDotNetApp.genruntimeconfig.cache
+D:\MyDotNetApp\obj\Debug\net8.0\ref\MyDotNetApp.dll
