@@ -17,7 +17,7 @@ pipeline {
             steps {
                 // Restore the NuGet packages
                 script {
-                    sh 'dotnet restore'
+                    bat 'dotnet restore'
                 }
             }
         }
@@ -26,7 +26,7 @@ pipeline {
             steps {
                 // Build the application
                 script {
-                    sh 'dotnet build --configuration Release'
+                    bat 'dotnet build --configuration Release'
                 }
             }
         }
@@ -35,7 +35,7 @@ pipeline {
             steps {
                 // Run the tests
                 script {
-                    sh 'dotnet test --no-build --verbosity normal'
+                    bat 'dotnet test --no-build --verbosity normal'
                 }
             }
         }
@@ -44,7 +44,7 @@ pipeline {
             steps {
                 // Publish the application
                 script {
-                    sh 'dotnet publish --configuration Release --output ./publish'
+                    bat 'dotnet publish --configuration Release --output ./publish'
                 }
             }
         }
